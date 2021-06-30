@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...FullStack Web Devlopment
 - 🌱 I’m currently learning ...React Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...sharmarohit4542@gmail.com
 
 <!---
 dhakad17/dhakad17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
