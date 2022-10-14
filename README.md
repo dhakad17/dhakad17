@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhakad17
 - 👀 I’m interested in ...FullStack Web Devlopment
-- 🌱 I’m currently learning ...React Js
 - 📫 How to reach me ... rohitdhakad1719@gmail.com
 
 <!---
